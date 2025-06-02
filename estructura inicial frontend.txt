@@ -1,0 +1,7 @@
+frontend/
+├── src/
+│   ├── views/         # Páginas (Home, Productos, Carrito)
+│   ├── components/    # Componentes reutilizables (Navbar, ProductCard)
+│   ├── router/        # Configuración de Vue Router
+│   ├── services/      # Llamadas a la API (axios)
+│   └── App.vue        # Componente principal
